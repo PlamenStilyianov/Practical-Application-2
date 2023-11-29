@@ -27,3 +27,5 @@ Predict the price of used cars, and what factors make a car more or less expensi
 2. Tuning technics to be used in the regression models
 3. Some advanced models have been used but the best results are from the simple regression model
 4. The prediction models are  at experimental stage, but can be productionised by converting it to python code api library with gui and interface api
+
+Note: the notebook does not show plotley plot and piplene object in the github viewer, need to be load and run under jupyter
